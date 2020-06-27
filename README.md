@@ -11,7 +11,7 @@ download a collection of images, then uses opencv library for classification.
 in this example you can see that with my cpu proessing power I couldn't achieve good results for object detection.
 
 ## minimal requirement
-- 64-bit
+- 64-bit Processor
 - tensorflow
 
 ## framework
