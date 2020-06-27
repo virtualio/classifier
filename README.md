@@ -23,7 +23,7 @@ classifier written in the flow, with no much efforts for modular programming. th
 - option one: using Beautifulsoup library to download images from wider range of domains.
 - option two: since a video is a set of images it is possible to do live classification for videos (while loop)
               an object could be human walking, distance between two moving objects, face emotions, etc ..
-              for this there is a need for extrad deep lerning libraries/frameworks such as:
+              for this there is a need for extra deep lerning libraries/frameworks such as:
               [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/)
               
 * it would be great to install the software in a rasberry pi for a demo.
