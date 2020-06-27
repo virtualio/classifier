@@ -7,7 +7,7 @@ with an efficient processing power with GPU you can train your haarcascade_*.xml
 
 ## content
 download a collection of images, then uses opencv library for classification.
-<p align="center"><img src="https://github.com/virtualio/classifier/blob/master/img/img10.jpg" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/virtualio/classifier/blob/master/img/img10.jpg" width="400" height="400"></p>
 
 ## minimal requirement
 - 64-bit
