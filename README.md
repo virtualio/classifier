@@ -26,5 +26,5 @@ classifier written in the flow, with no much efforts for modular programming. th
               for this there is a need for extra deep lerning libraries/frameworks such as:
               [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/)
               
-* it would be great to install the software in a rasberry pi for a demo.
+* it would be great to install the software in a raspberry pi for a demo.
               
