@@ -12,7 +12,6 @@ in this example you can see that with my cpu proessing power I couldn't achieve 
 
 ## minimal requirement
 - 64-bit Processor
-- tensorflow
 
 ## framework
 - [OpenCV](https://opencv.org/)
